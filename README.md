@@ -1,3 +1,3 @@
-# What did We Work on This Week (WWWW)
+# What did We Work (WWW)
 
-A weekly report of Github activiy for your team
+The WWW is a regular report of Github activiy for your team
